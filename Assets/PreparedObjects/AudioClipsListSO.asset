@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b4f09799c2c6cd449f106683fb0c091, type: 3}
+  m_Name: AudioClipsListSO
+  m_EditorClassIdentifier: 
+  List:
+  - ID: 1
+    mixerGroup: {fileID: -1130623119356653692, guid: f551d5a2afd04b44abae2875a61a6bda, type: 2}
+    audioClip: {fileID: 8300000, guid: 428d40b0ea5e6d34288f671898669cd0, type: 3}
+  - ID: 2
+    mixerGroup: {fileID: 8390442108079081455, guid: f551d5a2afd04b44abae2875a61a6bda, type: 2}
+    audioClip: {fileID: 8300000, guid: e471e39c129faca4fa87ea0f9c3dae3d, type: 3}
+  - ID: 3
+    mixerGroup: {fileID: 8390442108079081455, guid: f551d5a2afd04b44abae2875a61a6bda, type: 2}
+    audioClip: {fileID: 8300000, guid: cd4179d213f4ca24b92a242d6dcc62ab, type: 3}
+  - ID: 4
+    mixerGroup: {fileID: 8390442108079081455, guid: f551d5a2afd04b44abae2875a61a6bda, type: 2}
+    audioClip: {fileID: 8300000, guid: 2641e66940feabd4e861c45cbeeb1357, type: 3}
